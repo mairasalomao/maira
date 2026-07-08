@@ -18,7 +18,7 @@ body{
 }
 
 .cabecalho{
-    background:#2b7a78;
+    background:#312b7a;
     color:white;
     padding:30px;
     border-radius:10px;
@@ -38,7 +38,7 @@ body{
 }
 
 .conteudo h1{
-    color:#2b7a78;
+    color:#762b7a;
     font-size:28px;
     margin-bottom:15px;
 }
@@ -77,5 +77,5 @@ body{
 }
 
 .rodape a:hover{
-    background:#2b7a78;
+    background:#7a2b45;
 }
