@@ -58,8 +58,8 @@ body{
 }
 
 .rodape{
-    background:#17252a;
-    color:white;
+    background:#2a1723;
+    color:rgb(224, 235, 232);
     padding:25px;
     margin-top:20px;
     border-radius:10px;
@@ -70,7 +70,7 @@ body{
     display:inline-block;
     margin-top:15px;
     padding:10px 20px;
-    background:#3aafa9;
+    background:#993aaf;
     color:white;
     text-decoration:none;
     border-radius:5px;
